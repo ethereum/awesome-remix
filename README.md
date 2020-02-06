@@ -11,7 +11,7 @@ A curated list of Remix resources, tutorials & explanations
 - [Remix Plugin Repositories](#remix-plugin-repositories)
 - [Remix Forums](#remix-forums)
 - [Documentation](#documentation)
-- [Tutorials/Blogs](#tutorials/blogs)
+- [Tutorials/Blogs](#tutorials_blogs)
 - [Miscellaneous](#miscellaneous)
 ---
 ## Remix Repositories
