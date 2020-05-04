@@ -39,6 +39,9 @@ A curated list of Remix resources, tutorials & explanations
 * [Publish your metadata and the source code to SWARM and IPFS](https://medium.com/remix-ide/publish-your-metadata-and-sourcecode-to-swarm-and-ipfs-bf3fcd179cd6)
 * [[RemixIDE] Create a workshop for Solidity](https://medium.com/remix-ide/remixide-create-a-workshop-for-solidity-d45f0755fe69)
 * [Low level interactions on Remix IDE](https://medium.com/remix-ide/low-level-interactions-on-remix-ide-5f79b05ac86)
+* [First smart contract on Remix IDE](https://kauri.io/remix-ide-your-first-smart-contract/124b7db1d0cf4f47b414f8b13c9d66e2/a)
+* [Trust fund account on Remix IDE](https://docs.chainstack.com/tutorials/ethereum/trust-fund-account-with-remix#interact-with-the-trust-fund-smart-contract)
+
 
 ## Miscellaneous
 * [Remix IDE server hosting](https://github.com/sespaces/remix-ide-server-hosting) - Host Ethereum's Remix-IDE on your own server.
