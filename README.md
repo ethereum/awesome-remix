@@ -41,6 +41,8 @@ A curated list of Remix resources, tutorials & explanations
 * [Low level interactions on Remix IDE](https://medium.com/remix-ide/low-level-interactions-on-remix-ide-5f79b05ac86)
 * [First smart contract on Remix IDE](https://kauri.io/remix-ide-your-first-smart-contract/124b7db1d0cf4f47b414f8b13c9d66e2/a)
 * [Trust fund account on Remix IDE](https://docs.chainstack.com/tutorials/ethereum/trust-fund-account-with-remix#interact-with-the-trust-fund-smart-contract)
+* [Create ERC20 without writing Solidity](https://forum.openzeppelin.com/t/create-an-erc20-using-remix-without-writing-solidity/2908s)
+
 
 
 ## Miscellaneous
