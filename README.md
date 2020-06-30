@@ -42,7 +42,8 @@ A curated list of Remix resources, tutorials & explanations
 * [First smart contract on Remix IDE](https://kauri.io/remix-ide-your-first-smart-contract/124b7db1d0cf4f47b414f8b13c9d66e2/a)
 * [Trust fund account on Remix IDE](https://docs.chainstack.com/tutorials/ethereum/trust-fund-account-with-remix#interact-with-the-trust-fund-smart-contract)
 * [Create ERC20 without writing Solidity](https://forum.openzeppelin.com/t/create-an-erc20-using-remix-without-writing-solidity/2908)
-
+* [Solidity Smart Contract Tutorial With Building Real-World DAPP — Part 2: Create Your First Contract
+](https://medium.com/coinmonks/solidity-smart-contract-tutorial-with-building-real-world-dapp-part-2-create-your-first-contract-e7cd4fdf4e98)
 
 
 ## Miscellaneous
