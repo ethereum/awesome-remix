@@ -1,12 +1,13 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ethereum/awesome-remix/pulls)
 
 Awesome Remix
 ===============
-A curated list of Remix resources, tutorials & explanations
+A curated list of Remix Project resources, tutorials & explanations
 
 ## List of content
 
+- [Remix URLs](#remix-urls)
 - [Remix Repositories](#remix-repositories)
 - [Remix Plugin Repositories](#remix-plugin-repositories)
 - [Remix Forums](#remix-forums)
@@ -14,19 +15,25 @@ A curated list of Remix resources, tutorials & explanations
 - [Tutorials/Blogs](#tutorialsblogs)
 - [Miscellaneous](#miscellaneous)
 ---
+
+## Remix URLs
+* Remix Online - https://remix.ethereum.org/
+* Remix Alpha - https://remix-alpha.ethereum.org/
+* Remix Beta - https://remix-beta.ethereum.org/
+* Remix Website - https://remix-project.org/
+
 ## Remix Repositories
-* [Remix website](https://github.com/ethereum/remix-website) - Remix website https://remix-project.org/ .
-* [Remix](https://github.com/ethereum/remix) - Remix core libraries.
-* [Remix IDE](https://github.com/ethereum/remix-ide) - Browser-Only Ethereum IDE and Runtime Environment.
+* [Remix project](https://github.com/ethereum/remix-project) - Remix IDE and Remix libraries Source Code.
+* [Remix website](https://github.com/ethereum/remix-website) - Remix website.
 * [Remix desktop](https://github.com/ethereum/remix-desktop) - Remix IDE desktop.
-* [Remixd](https://github.com/ethereum/remixd) - Remix server.
 * [Remix plugin](https://github.com/ethereum/remix-plugin) - Remix plugin.
-* [Remix plugins directory](https://github.com/ethereum/remix-plugins-directory) - Remix plugins directory
-* [Remix workshops](https://github.com/ethereum/remix-workshops) - Remix workshops.
-* [Remix Alpha](https://github.com/ethereum/remix-live-alpha) - Live deployment of the remix IDE (alpha).
-* [Remix live](https://github.com/ethereum/remix-live) - Live deployment of the remix IDE.
+* [Remix plugins directory](https://github.com/ethereum/remix-plugins-directory) - Remix plugins directory.
+* [Remix Alpha](https://github.com/ethereum/remix-live-alpha) - Live deployment of the Remix IDE (alpha).
+* [Remix live](https://github.com/ethereum/remix-live) - Live deployment of the Remix IDE.
 
 ## Remix Plugin Repositories
+* [Remix Script Runner](https://github.com/yann300/remix-script-runner) - Plugin, responsible to run js/ts scripts on Remix IDE
+* [Remix LearnEth](https://github.com/ethereum/remix-workshops) - Plugin to learn web3 development
 
 ## Remix Forums
 * [Remix Gitter](https://gitter.im/ethereum/remix) - Remix gitter forum.
